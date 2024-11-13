@@ -1,0 +1,75 @@
+body{
+    font-family: Arial,Arial, sans-serif;
+    background-color: #f1cece;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px
+    rgba(0,0,0,0.1)
+}
+
+.main{
+    margin-left: 28%;
+    margin-bottom: 55px;
+    
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+.skillhead{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.experiencehead{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.educationhead{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin-right: 80px;
+}
+ 
+label{
+    margin: 10px 0 5px;
+}
+
+
+input,textarea{
+    padding: 10px;
+    background-color: #ebcece;
+    color: #292727;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button{
+    background-color: #585d63;
+    padding: 4px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.resume-output{
+    margin-top:20px ;
+    padding: 20px;
+    border:1px solid #ddd;
+    border-radius: 4px;
+    background: #e1dede;
+
+}
+
+
